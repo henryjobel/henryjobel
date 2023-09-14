@@ -133,4 +133,4 @@
     <br />
     
     ----
- 
+    <div align="center"> <a href="https://profilinator.rishav.dev/" target="_blank"></a></div>
