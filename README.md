@@ -18,13 +18,13 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<img src="https://i.stack.imgur.com/UMSgb.gif" align="left" height="" width="900" />  
+<img src="https://i.stack.imgur.com/UMSgb.gif" align="left" style="width: 100%" />  
   
 
 <br/>  
 
 
- 
+## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -112,7 +112,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
