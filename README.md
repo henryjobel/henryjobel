@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jobel Henry</h1>
 <h3 align="center">I am eager to learn new things and always strive to improve myself. I believe in continuous growth and embrace challenges as opportunities to expand my knowledge and skills. With a positive attitude and a strong work ethic, I am determined to achieve my goals. I am open-minded, adaptable, and committed to making a positive impact in every endeavor I undertake.</h3>
+<img src="https://i.stack.imgur.com/UMSgb.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henryjobel&label=Profile%20views&color=0e75b6&style=flat" alt="henryjobel" /> </p>
 
