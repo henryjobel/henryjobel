@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
 <h1 align="center">Hi 👋, I'm Jobel Henry</h1>
 <h3 align="center">I am eager to learn new things and always strive to improve myself. I believe in continuous growth and embrace challenges as opportunities to expand my knowledge and skills. With a positive attitude and a strong work ethic, I am determined to achieve my goals. I am open-minded, adaptable, and committed to making a positive impact in every endeavor I undertake.</h3>
