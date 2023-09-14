@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<img src="https://i.stack.imgur.com/UMSgb.gif" align="left" height="" width="800" />  
+<img src="https://i.stack.imgur.com/UMSgb.gif" align="left" height="" width="900" />  
   
 
 <br/>  
