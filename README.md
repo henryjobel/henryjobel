@@ -18,9 +18,6 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 
-<img src="https://i.stack.imgur.com/UMSgb.gif" align="left" style="width: 100%" />  
-  
-
 <br/>  
 
 
@@ -100,6 +97,9 @@
 
 
 ## Github Stats  
+![](https://i.stack.imgur.com/UMSgb.gif)  
+  
+
 <img src="https://github-readme-stats.vercel.app/api?username=henryjobel&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
