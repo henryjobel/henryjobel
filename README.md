@@ -98,13 +98,7 @@
 
 ## Github Stats  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fhenryjobel%2Fhenryjobel&theme=whatsapp-light2)](https://git.io/streak-stats)
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
+ 
 
   
 
