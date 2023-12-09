@@ -3,7 +3,7 @@
 ![Bio Cover](https://raw.githubusercontent.com/henryjobel/henryjobel/main/Black%20and%20White%20Minimalist%20Facebook%20Cover.png)
 
 
-I'm a passionate **MRAN STCK Developer** based all over the country. I love working with technologies like **React** and **Node.js**, and I'm constantly exploring new technologies to enhance my skills.
+I'm a passionate **MERN STCK Developer** based all over the country. I love working with technologies like **React** and **Node.js**, and I'm constantly exploring new technologies to enhance my skills.
 
 
 ## 📫 How to reach me
