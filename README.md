@@ -97,13 +97,7 @@
 
 
 ## Github Stats  
-![](https://i.stack.imgur.com/UMSgb.gif)  
-  
-
-<img src="https://github-readme-stats.vercel.app/api?username=henryjobel&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fhenryjobel%2Fhenryjobel&theme=whatsapp-light2)](https://git.io/streak-stats)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
