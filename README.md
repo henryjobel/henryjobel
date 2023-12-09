@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Henry
 
+![Bio Cover](https://raw.githubusercontent.com/henryjobel/henryjobel/main/Black%20and%20White%20Minimalist%20Facebook%20Cover.png)
+
 
 I'm a passionate **MRAN STCK Developer** based all over the country. I love working with technologies like **React** and **Node.js**, and I'm constantly exploring new technologies to enhance my skills.
 
@@ -27,7 +29,7 @@ I'm a passionate **MRAN STCK Developer** based all over the country. I love work
 [![My Skills](https://skillicons.dev/icons?i=atom,github,firebase,vercel,vscode)](https://skillicons.dev)
 
 
-## Github Stats
+## 🐱‍🏍Github Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henryjobel&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henryjobel&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henryjobel&theme=transparent)
@@ -55,10 +57,15 @@ Here are some projects I'm proud of:
 
 Feel free to connect and say hi! 😊
 
+# Top Contributors
+
+🎉 A special thanks to our top contributors! 🙌
+
+
 ## 🌟 Fun Facts
 
-- [A fun fact about yourself]
-- [Another fun fact]
+- I enjoy solving coding challenges in my free time.
+- I'm a fan of exploring new places and trying out different cuisines.
 
 Thanks for visiting my profile! ✨
 
