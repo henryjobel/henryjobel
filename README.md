@@ -6,7 +6,7 @@
 ### <div align="center">Hey Whats up🖐️</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on My self  
   
 
 - 🌱 I’m currently learning React and Node JS  
