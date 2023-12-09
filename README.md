@@ -46,12 +46,15 @@ Here are some projects I'm proud of:
 
 1. [Community Food Sharing](https://github.com/henryjobel/community-food-sharing-platfrom-client)
    - Community Food Sharing is a platform facilitating the sharing of surplus food within local communities. Users can post available food items for sharing, while those in need can browse and request items. This initiative aims to reduce food waste and foster a sense of community by connecting neighbors through shared resources.
+   [Live Link](https://foodsharingproject-7b9be.web.app/)
 
 2. [Rock Fest Management](https://github.com/henryjobel/Rock-Fest-Event-mennagement)
    - Rock Fest Event Management is an all-in-one platform for organizing and coordinating rock music festivals. From artist bookings and stage management to ticket sales and crowd control, our solution streamlines the entire event process. Ensure a seamless and unforgettable rock experience for both performers and attendees.
+   [Live Link](https://rock-fast-event-management.web.app/)
 
 3. [Evo Learning Platfrom](https://github.com/henryjobel/evi-learnig-client-site)
    - Evi-Learning is a comprehensive online education platform that empowers learners with diverse courses and interactive content. Offering a user-friendly interface, personalized learning paths, and real-time progress tracking, Evi-Learning caters to a wide range of subjects, fostering accessible and engaging education for students of all levels.
+   [Live Link](https://evo-learning-7107a.web.app/)
 
 
 
