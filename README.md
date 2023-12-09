@@ -3,7 +3,7 @@
 ![Bio Cover](https://raw.githubusercontent.com/henryjobel/henryjobel/main/Black%20and%20White%20Minimalist%20Facebook%20Cover.png)
 
 
-I'm a passionate **MERN STCK Developer** based all over the country. I love working with technologies like **React** and **Node.js**, and I'm constantly exploring new technologies to enhance my skills.
+I'm a passionate **MRAN STCK Developer** based all over the country. I love working with technologies like **React** and **Node.js**, and I'm constantly exploring new technologies to enhance my skills.
 
 
 ## 📫 How to reach me
@@ -44,14 +44,14 @@ I'm a passionate **MERN STCK Developer** based all over the country. I love work
 
 Here are some projects I'm proud of:
 
-1. [Project 1](https://github.com/henryjobel/community-food-sharing-platfrom-client)
-   - Brief description of the project.
+1. [Community Food Sharing](https://github.com/henryjobel/community-food-sharing-platfrom-client)
+   - Community Food Sharing is a platform facilitating the sharing of surplus food within local communities. Users can post available food items for sharing, while those in need can browse and request items. This initiative aims to reduce food waste and foster a sense of community by connecting neighbors through shared resources.
 
-2. [Project 2](https://github.com/henryjobel/Rock-Fest-Event-mennagement)
-   - Brief description of the project.
+2. [Rock Fest Management](https://github.com/henryjobel/Rock-Fest-Event-mennagement)
+   - Rock Fest Event Management is an all-in-one platform for organizing and coordinating rock music festivals. From artist bookings and stage management to ticket sales and crowd control, our solution streamlines the entire event process. Ensure a seamless and unforgettable rock experience for both performers and attendees.
 
-3. [Project 3](https://github.com/henryjobel/evi-learnig-client-site)
-   - Brief description of the project.
+3. [Evo Learning Platfrom](https://github.com/henryjobel/evi-learnig-client-site)
+   - Evi-Learning is a comprehensive online education platform that empowers learners with diverse courses and interactive content. Offering a user-friendly interface, personalized learning paths, and real-time progress tracking, Evi-Learning caters to a wide range of subjects, fostering accessible and engaging education for students of all levels.
 
 
 
@@ -59,8 +59,8 @@ Feel free to connect and say hi! 😊
 
 # Top Contributors
 
-🎉 A special thanks to our top contributors! 🙌
-
+ 
+![](https://api.githubtrends.io/user/svg/henryjobel/repos?time_range=six_months&theme=dark)
 
 ## 🌟 Fun Facts
 
